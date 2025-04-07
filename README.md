@@ -1,2 +1,2 @@
-# APOO-coding
-my first coding demo
+Learning how to code 
+My first coding
